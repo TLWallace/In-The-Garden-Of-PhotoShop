@@ -1,0 +1,11 @@
+Mainly:
+- Magnetic Lasso
+- Image Size [Preserve Details (enlargement)]
+- Patch
+- Clone Stamp
+- Brush
+- Eraser
+- Brightness /Contrast
+- Distort
+- Warp
+- Text

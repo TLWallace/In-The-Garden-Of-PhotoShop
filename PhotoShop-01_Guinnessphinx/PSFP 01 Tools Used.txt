@@ -1,0 +1,7 @@
+Mainly:
+- Magnetic Lasso
+- Patch
+- Clone Stamp
+- Scale
+- Warp
+- Distort

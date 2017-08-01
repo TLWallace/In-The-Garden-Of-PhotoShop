@@ -1,0 +1,7 @@
+Mainly:
+- Magnetic Lasso
+- Link Layers
+- Eraser
+- Blur
+- Text
+- Lighting Effect

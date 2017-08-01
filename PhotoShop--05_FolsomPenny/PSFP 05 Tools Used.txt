@@ -1,0 +1,6 @@
+Mainly:
+- Polygonal Lasso for cropping
+- Layer-on-layer subtraction (temp layer used to cut shape of bars from dog)
+- Exposure
+- Vibrance
+- Add Noise

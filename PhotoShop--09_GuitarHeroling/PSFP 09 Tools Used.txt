@@ -1,0 +1,7 @@
+Mainly:
+- Black & White
+- Eraser
+- Blur
+- Burn
+- Saturation
+- Clone Stamp

@@ -1,0 +1,9 @@
+Mainly:
+- Reduce Noise
+- Refine Edge
+- Clone Stamp
+- Healing Brush
+- Brightness/Contrast
+- Exposure
+- Blur & Sharpen
+- Iris Blur (for one of the two final versions)

@@ -1,0 +1,5 @@
+Mainly:
+- Content Aware Move
+- Smudge
+- Healing Brush
+- Text (incl. tracking & kerning etc.)

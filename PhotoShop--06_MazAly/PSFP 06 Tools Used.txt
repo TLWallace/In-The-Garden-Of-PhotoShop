@@ -1,0 +1,9 @@
+Mainly:
+- Magnetic Lasso
+- Link Layers
+- Eraser
+- Blur
+- Warp
+- Text
+- Gradient
+- Bridge ppi setting
